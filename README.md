@@ -1,5 +1,7 @@
 # ProxyDroid
 
+<!-- trigger build -->
+
 A global proxy app for Android, modernised around a VPN-first architecture.
 
 ProxyDroid forwards device traffic to an upstream SOCKS5 or HTTP proxy
